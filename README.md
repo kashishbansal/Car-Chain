@@ -19,7 +19,7 @@ The dApp and EthereumDevEnvSetup are different project module, loosely coupled w
 ## dApp
 
 ###### dApp module structure
-- contracts : contains smart contracts written in solidity 
+- contracts : contains smart contracts written in solidity
 - migration : contains smart contract migration code, useful for deployment of smart contracr to network.
 - resource : contains various resource files used in dApp module
 - test : contains test cases which can be written in Solidity or Javascript.
@@ -28,7 +28,7 @@ The dApp and EthereumDevEnvSetup are different project module, loosely coupled w
 ## EthereumDevEnvSetup
 
 This module is used to automate the installation of Ethereum network on users local 
-machine for the developement of dApps using solidity.
+machine for the developement of DApps using solidity.
 
 Please follow below steps to download and install tools required to setup up Ethereum solidity based dApp on your machine.
 
