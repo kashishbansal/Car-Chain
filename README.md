@@ -80,4 +80,5 @@ When miner will start it will ask you three options
 
 ### How to contribute
 Please feel free to contribute to this project.
+Thank You.
 
